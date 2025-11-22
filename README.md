@@ -6,6 +6,12 @@ Space for new game after game over.
 
 During gameplay pressing 'd' show debug lines.
 
+## Libraries
+
+Only needed install `pip install pygame`
+
+## Pictures
+
 ![fly1](https://github.com/user-attachments/assets/1d96419e-4781-470a-8f08-088ea92b0724)
 
 Debug lines while pressing 'd':
