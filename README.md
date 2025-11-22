@@ -1,4 +1,4 @@
-# Fly game
+# Flying game
 
 Try to fly above the road.
 
