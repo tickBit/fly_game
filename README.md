@@ -8,7 +8,7 @@ During gameplay pressing 'd' shows debug lines.
 
 ## Libraries
 
-Only needed install `pip install pygame`
+Only needed installation: `pip install pygame`
 
 ## Pictures
 
